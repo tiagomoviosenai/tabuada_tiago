@@ -1,0 +1,26 @@
+#principal{
+width: 500px;
+margin: 0 auto;
+text-align: center;
+}
+.titulo{
+text-align: center;
+color: rgb(0, 0, 255);
+}
+#titulo{
+font-size: 40px;
+}
+#calcular{
+width: 90px;
+background-color: rgb(42, 77, 165);
+border-radius: 5px;
+color: white;
+}
+#resultado{
+background-color: rgb(109, 40, 205);
+border-radius: 5px;
+width: 90px;  
+margin: 20px 40%;
+border: solid 2px black;
+padding: 10px;
+}
